@@ -1,5 +1,5 @@
 import { defineConfig } from 'vite'
 export default defineConfig({
-    base: '/LP_tpl_CI_0002/',
+    base: '/LP_tpl_REI_0001/',
     plugins: [],
 })
